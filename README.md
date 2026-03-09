@@ -1,2 +1,3 @@
 # my-first-project
-My first projekt!
+
+This is my first projekt
